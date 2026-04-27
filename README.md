@@ -1,30 +1,30 @@
 # Hi 👋, I'm Esraa Suleiman
 
-💻 Junior Flutter Developer
+💻 Junior Flutter Developer  
 
 ---
 
 ## 🚀 About Me
-- Passionate about building mobile apps using Flutter
-- Focused on creating clean UI and good user experience
-- Currently improving my skills in Flutter and Dart
+- Junior Flutter Developer
+- I build mobile apps using Flutter
+- I focus on clean UI and user experience
+- I also have experience in backend development using Laravel
 
 ---
 
 ## 🛠 Tech Stack
-- Flutter
-- Dart
+- Flutter & Dart
+- Laravel (PHP)
 - HTML, CSS, JavaScript
-- PHP, MySQL
+- MySQL
 - Git & GitHub
 
 ---
 
-## 📱 Featured Projects
+## 📱 Projects
 - Flutter Team Project (Profile & Search Screens)
-👉 (add your repo link here later)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - Email: solimanisraa103@gmail.com
