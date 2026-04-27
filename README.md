@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Esraa Suleiman
 
-<!--
-**EsraaSl/EsraaSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Flutter Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building mobile apps using Flutter
+- Focused on creating clean UI and good user experience
+- Currently improving my skills in Flutter and Dart
+
+---
+
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- HTML, CSS, JavaScript
+- PHP, MySQL
+- Git & GitHub
+
+---
+
+## 📱 Featured Projects
+- Flutter Team Project (Profile & Search Screens)
+👉 (add your repo link here later)
+
+---
+
+## 📫 Contact Me
+- Email: solimanisraa103@gmail.com
