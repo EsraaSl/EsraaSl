@@ -32,7 +32,7 @@
 - Built reusable UI components  
 - Collaborated within a team using Git & GitHub (branching, pull requests)
 
-🔗 Project Link: 
+🔗 View Project on GitHub:https://github.com/majd-khalifa/404Found_Task7_.git
 
 ---
 
