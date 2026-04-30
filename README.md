@@ -32,7 +32,7 @@
 - Built reusable UI components  
 - Collaborated within a team using Git & GitHub (branching, pull requests)
 
-🔗 Project Link: (add your repository link here)
+🔗 Project Link: 
 
 ---
 
@@ -46,6 +46,6 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: (add your LinkedIn profile)
-- Email: (add your email)
+- LinkedIn: esraa-sleman-29b6a222b
+- Email: solimanisraa103@gmail.com
 
